@@ -14,8 +14,15 @@
 - #### (주) 코어커넥트 / Web Developer / 23.10.01 ~ 25.02.01 (1년 4개월)
 ---
 
+### ⭐️ Open Source Contribution
+
+* **ko.javascript.info**
+    * `#1858` C11 충돌 해결 및 번역 진행 ➔ [![PR Status](https://img.shields.io/github/pulls/detail/state/javascript-tutorial/ko.javascript.info/1858?style=flat-square)](https://github.com/javascript-tutorial/ko.javascript.info/pull/1858)
+    * `#1888` Part 3. 2.1 ArrayBuffer, binary arrays 번역 (`#1876`) ➔ [![PR Status](https://img.shields.io/github/pulls/detail/state/javascript-tutorial/ko.javascript.info/1888?style=flat-square)](https://github.com/javascript-tutorial/ko.javascript.info/pull/1888)
+
 ### 🎯 Activities
 
+- #### ⭐️ 2026 오픈소스 커트리뷰션 아카데미 (체험형) / 26.04.20 ~ 26.06.02 (6주)
 - #### ✏️ 부스트캠프 웹・모바일 10기 (웹 풀스택) / 25.06.23 ~ 26.02.06 (8개월)
 ---
 
