@@ -34,17 +34,6 @@
     * `#1858` Resolved a C11 conflict and contributed translations ➔ [![PR Status](https://img.shields.io/github/pulls/detail/state/javascript-tutorial/ko.javascript.info/1858?style=flat-square)](https://github.com/javascript-tutorial/ko.javascript.info/pull/1858)
     * `#1888` Translated _"Part 3. 2.1 ArrayBuffer, binary arrays"_ (`#1876`) ➔ [![PR Status](https://img.shields.io/github/pulls/detail/state/javascript-tutorial/ko.javascript.info/1888?style=flat-square)](https://github.com/javascript-tutorial/ko.javascript.info/pull/1888)
 
-### ⭐ Open Source Contributions
-
-| Project | Contribution | PR |
-|---|---|---|
-| **Node.js** | Accept safe integer numbers for 64-bit FFI arguments | [#66197](https://github.com/nodejs/node/pull/66197) |
-| **Node.js** | Reuse a buffer for UV metrics to avoid repeated V8 array allocations | [#65985](https://github.com/nodejs/node/pull/65985) |
-| **ko.javascript.info** | Resolve a C11 conflict and contribute to the Korean translation | [#1858](https://github.com/javascript-tutorial/ko.javascript.info/pull/1858) |
-| **ko.javascript.info** | Translate “ArrayBuffer and binary arrays” (Part 3, Chapter 2.1) | [#1888](https://github.com/javascript-tutorial/ko.javascript.info/pull/1888) |
-
-**[22 PRs merged and counting](https://github.com/nodejs/node/pulls?q=is%3Apr+author%3AHoonDongKang+is%3Amerged)**
-
 ---
 
 
