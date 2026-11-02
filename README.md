@@ -40,7 +40,7 @@
 ### 🎯 Activities
 
 - #### ⭐️ 2026 Open Source Contribution Academy (Participant Track) / 26.07.11 ~ 26.10.24 (15주)
-    - **<Node.js>**
+    - **<Node.js> - 🏆 대상 | 과학기술정보통신부장관상**
 - #### ⭐️ 2026 Open Source Contribution Academy (Experience Track) / 26.04.20 ~ 26.06.02 (6주)
     - **<Git 활용 및 JavaScript 문서 번역>**
 - #### ✏️ Naver Boostcamp Web·Mobile 10th (Full-Stack Web Development) / 25.06.23 ~ 26.02.06 (8개월)
