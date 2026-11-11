@@ -6,13 +6,13 @@
 
 <p align="center">
    I’m a backend developer who enjoys understanding technology in depth and sharing what I learn with others.<br>
-   I keep growing by revisiting what I’ve learned and organizing it on my <a href="https://velog.io/@d159123/posts">blog</a>.<br>
+   I keep growing by revisiting what I’ve learned and organizing it on my <a href="https://hoondongkang.kro.kr/about/">blog</a>.<br>
    Recently, I’ve been studying Node.js internals and contributing improvements to Node.js core.
 </p>
 
 <p align="center">
   하나의 기술을 깊이 있게 이해하고 다른 사람들과 나누는 것을 좋아하는 백엔드 개발자입니다.<br>
-  학습한 내용은 <a href="https://velog.io/@d159123/posts">블로그</a>에 스스로 다시 한 번 정리해나가며 성장해나가고 있습니다.<br>
+  학습한 내용은 <a href="https://hoondongkang.kro.kr/about/">블로그</a>에 스스로 다시 한 번 정리해나가며 성장해나가고 있습니다.<br>
   최근에는 Node.js 내부 구조를 공부하며 Node.js 코어의 개선에도 기여하고 있습니다.
 </p>
 
