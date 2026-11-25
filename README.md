@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Donghoon Kang
 
+
 <p align="center">
   <strong>Node.js Backend Developer · Open Source Contributor</strong>
 </p>
@@ -16,6 +17,14 @@
   최근에는 Node.js 내부 구조를 공부하며 Node.js 코어의 개선에도 기여하고 있습니다.
 </p>
 
+<p align="center">
+<a href="https://velog.io/@d159123" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://velo-card.profilecard.workers.dev/api?name=d159123&theme=github_dark&tags=node.js%2C%EB%84%A4%EC%9D%B4%EB%B2%84+%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84%2Cnest.js%2CJavaScript" />
+    <img src="https://velo-card.profilecard.workers.dev/api?name=d159123&theme=github&tags=node.js%2C%EB%84%A4%EC%9D%B4%EB%B2%84+%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84%2Cnest.js%2CJavaScript" alt="d159123 velog" />
+  </picture>
+</a>
+</p>
 ---
 
 ### 💼 Experience
@@ -44,6 +53,7 @@
 - #### ⭐️ 2026 Open Source Contribution Academy (Experience Track) / 26.04.20 ~ 26.06.02 (6주)
     - **<Git 활용 및 JavaScript 문서 번역>**
 - #### ✏️ Naver Boostcamp Web·Mobile 10th (Full-Stack Web Development) / 25.06.23 ~ 26.02.06 (8개월)
+
 ---
 
 
